@@ -1,0 +1,15 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "ES5",
+        "lib": ["ES2020", "DOM"],
+        "skipLibCheck": true,
+        "moduleResolution": "node",
+        "outDir": "./lib",
+        "jsx": "react-jsx",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true
+    },
+    "exclude": ["./frontend"],
+    "include": ["./backend"]
+}
