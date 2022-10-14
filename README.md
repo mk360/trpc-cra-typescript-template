@@ -8,7 +8,7 @@ This is a vanilla repository template powered by:
 
 ### File structure
 - `frontend` is a CRA app.
-- `backend` contains the backend server, using a very simple tRPC router and an Express instance. The port it runs in is set to 3600 by default.
+- `backend` contains the backend server, using a very simple tRPC router, an Express instance and a Hello World route. The port it runs in is set to 3600 by default.
 - The root `node_modules` contains all the npm dependencies for your backend server. Your CRA app has its own `node_modules`.
 
 ### Setup
